@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">@color/dark_primary_color</color>
+    <color name="color_primary_dark">@color/dark_primary_dark_color</color>
+    <color name="color_accent">@color/dark_accent_color</color>
+    <color name="color_background">@color/dark_background_color</color>
+    <color name="color_error">@color/dark_error_color</color>
+    <color name="color_surface">@color/dark_surface_color</color>
+
+    <color name="splash_bg">@color/dark_splash_bg</color>
+</resources>
